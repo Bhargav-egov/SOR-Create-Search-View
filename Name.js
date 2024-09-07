@@ -3,4 +3,4 @@ function printName(name){
     console.log(name)
 }
 
-printName("bhargav")
+printName("Men will be Men Yo") 
